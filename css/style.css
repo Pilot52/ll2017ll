@@ -1,1 +1,34 @@
+body{
+	background-color: darkblue;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-family: castellar;
+	font-size: 60px;
+	border: 4px solid black;
+}
+h2{
+	color: white;
+	font-size: 15px;
+	font-family: castellar;
+}
+iframe {
+	position: absolute;
+	right: 40px;
+}
 
+.img-center {
+	text-align: center;
+}
+#img-border{
+	border: 3px solid black;
+}
+
+#watermark {
+	position: absolute;
+	left: 40px;
+	z-index: -1;
+	opacity: .5;
+	width:1950px; 
+}
