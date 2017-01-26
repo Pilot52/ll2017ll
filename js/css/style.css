@@ -13,10 +13,16 @@ h2{
 	font-size: 25px;
 	font-family: castellar;
 }
-
+#highlights{
+	
+	text-align: center;
+	color: white;
+	font-family: castellar;
+	width: 400px;
+	height:400px;
 	
 
-
+}
 #header{
 	position: absolute;
 	right:100px;
